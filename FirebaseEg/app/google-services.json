@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "154997148703",
+    "firebase_url": "https://fir-eg-bc653.firebaseio.com",
+    "project_id": "fir-eg-bc653",
+    "storage_bucket": "fir-eg-bc653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154997148703:android:ff0d9cae65e4a1bb",
+        "android_client_info": {
+          "package_name": "com.example.sith2.firebaseeg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154997148703-jbkrfmr883u7pe259suq7399f3uvn5rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNt7snTRyZce0Jue2wGRb2mwxbkgq_5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
